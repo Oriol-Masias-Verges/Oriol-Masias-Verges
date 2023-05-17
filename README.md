@@ -11,6 +11,7 @@
 
 - 📫 How to reach me **masias.oriol@gmail.com**
 
+## About me:
 In my free time, I enjoy staying active by practicing **sports** and indulging in my love of skiing. I also have a passion for **reading** books, which allows me to learn and explore new ideas.
 
 While I consider myself an **introverted person**, I have developed strong **listening skills** that enable me to connect with others and understand their perspectives. I believe in the importance of **effective communication** and am always striving to improve my ability to connect with others, whether it be in my personal or professional life.
