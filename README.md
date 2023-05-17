@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oriol Masias Vergés</h1>
-<h3 align="center">A passionate Data Scientist from Barcelona</h3>
+# Hi 👋, I'm Oriol Masias Vergés
 
 - 👨‍💻 I have a strong background in **SQL and Microsoft Excel**
 
