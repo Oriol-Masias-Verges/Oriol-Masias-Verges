@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Oriol Masias Vergés</h1>
 <h3 align="center">A passionate Data Scientist from Barcelona</h3>
 
-- 🌱 I’m currently learning **Master of Big Data & Data Science**
+- 👨‍💻 I have a strong background in **SQL and Microsoft Excel**
+
+- 📝 I recently learned **Python & R** and **Tableau & Power BI**
+
+- 🌱 I’m currently pursuing a **Master's degree in Big Data & Data Science at the University of Barcelona**
+
+- 👯 I'm looking to collaborate on **Data Science or Data Analyst projects**
 
 - 📫 How to reach me **masias.oriol@gmail.com**
 
@@ -9,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/oriol masias vergés" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oriol masias vergés" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oriol-masias-vergés" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oriol masias vergés" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
