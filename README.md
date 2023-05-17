@@ -3,7 +3,7 @@
 
 - 👨‍💻 I have a strong background in **SQL and Microsoft Excel**
 
-- 📝 I recently learned **Python & R** and **Tableau & Power BI**
+- 📝 I have recently acquired proficiency in **Python and R**, as well as gained experience with **Tableau and Power BI**
 
 - 🌱 I’m currently pursuing a **Master's degree in Big Data & Data Science at the University of Barcelona**
 
