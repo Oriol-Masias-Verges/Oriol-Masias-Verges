@@ -1,4 +1,4 @@
-# Hi, I'm Oriol Masias Vergés 👋
+# Hi, I'm Uri 👋
 ### 🗺️Data Scientist | 📊Data Analyst | 🥑Nutritionist
 
 - 👨‍💻 I have a strong background in **SQL and Microsoft Excel**
